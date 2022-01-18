@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-From Guilin, China.
+I'm From Guilin, China.
 
 ### Love
-developing programs, 
-Photography, 
-Video Editing, 
-Anime, 
-Games like: CS:GO, Minecraft, Terraria. 
+developing programs, <br/>
+Photography, <br/>
+Video Editing, <br/>
+Anime, <br/>
+Games like: CS:GO, Minecraft, Terraria. <br/>
 Astronomy(amateur..) Natural science
 
 Studying in University of Science and Technology Beijing.
