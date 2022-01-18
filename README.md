@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+From Guilin, China.
+
+###Love
+developing programs
+Photography
+Video Editing
+Anime
+Games like: CS:GO, Minecraft, Terraria
+Astronomy(amateur..) Natural science
+
+Studying in University of Science and Technology Beijing.
+Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning.
