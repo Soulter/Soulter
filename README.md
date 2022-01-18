@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 From Guilin, China.
 
-###Love
-developing programs
-Photography
-Video Editing
-Anime
-Games like: CS:GO, Minecraft, Terraria
+### Love
+developing programs, 
+Photography, 
+Video Editing, 
+Anime, 
+Games like: CS:GO, Minecraft, Terraria. 
 Astronomy(amateur..) Natural science
 
 Studying in University of Science and Technology Beijing.
