@@ -29,4 +29,4 @@ Studying in University of Science and Technology Beijing.
 Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning.
 
 
-![card](https://cdn.jsdelivr.net/gh/Soulter/netease-music-card/card.svg)
+![card](https://github.com/Soulter/netease-music-card/card.svg)
