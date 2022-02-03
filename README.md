@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I'm From Guilin, China.
 
+[![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
+
 ### Love
 developing programs, <br/>
 Photography, <br/>
