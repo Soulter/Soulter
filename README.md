@@ -1,5 +1,5 @@
 [![Bilibili](https://img.shields.io/badge/dynamic/json?label=bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D29867566%26jsonp%3Djsonp)](https://space.bilibili.com/29867566)
-[![Youtube](https://img.shields.io/badge/youtube-soruly-red?style=social)](https://www.youtube.com/user/soruly)
+
 ### Hi there 👋
 
 I'm From Guilin, China.
