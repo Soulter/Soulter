@@ -19,6 +19,10 @@ I'm From Guilin, China.
 
 [![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<summary><b>⚡ Github Stats</b></summary>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Soulter&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Soulter" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soulter&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Soulter" align = "center"/></p>
+
 ### Love
 developing programs, <br/>
 Photography, <br/>
