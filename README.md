@@ -8,7 +8,7 @@ I'm From Guilin, China.
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soulter&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Soulter" align = "center"/></p>
 
-![Metrics](https://metrics.lecoq.io/Soulter?template=classic&isocalendar=1&isocalendar.duration=full-year)
+<!-- ![Metrics](https://metrics.lecoq.io/Soulter?template=classic&isocalendar=1&isocalendar.duration=full-year) -->
 
 ### Love
 developing programs, <br/>
