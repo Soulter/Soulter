@@ -4,6 +4,8 @@
 
 I'm From Guilin, China.
 
+
+
 ### 🌱 Soulter's stats
 
 [![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
@@ -22,3 +24,6 @@ Astronomy(amateur..) Natural science
 
 Studying in University of Science and Technology Beijing.
 Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning.
+
+
+![Metrics](https://metrics.lecoq.io/Soulter?template=classic&isocalendar=1&isocalendar.duration=full-year)
