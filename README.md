@@ -1,15 +1,17 @@
 [![Bilibili](https://img.shields.io/badge/dynamic/json?label=bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D29867566%26jsonp%3Djsonp)](https://space.bilibili.com/29867566)
 
-# Hi there 👋
+# Hi there, I'm Soulter : ) 👋
 
 <br/>
 
+> It's all would be OK.
 
+<br/>
 
-## 成分分析 / Hobbies
+## 成分分析 / Hobbies ⭐
 
 <ul>
-<li>大学一年级 / College student
+<li>大学一年级 / College student 
 <li>摄影、后期 / Photography, Video Editing
 <li>动漫 / Anime
 <li>B站小UP / Bilibili Uploader
@@ -22,7 +24,7 @@
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
-## 做过的项目 / Projects
+## 做过的项目 / Projects 📰
 <ul>
 <li> 基于向日葵8号气象卫星的实时地球壁纸
 <li> 简易的电脑远程控制项目GhostJ-安卓主控端
@@ -35,7 +37,7 @@
 <li> ......
 </ul>
 
-## 联系我 / Contact me
+## 联系我 / Contact me ☎️
 
 >  欢迎联系~
 
