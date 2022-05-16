@@ -1,28 +1,50 @@
 [![Bilibili](https://img.shields.io/badge/dynamic/json?label=bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D29867566%26jsonp%3Djsonp)](https://space.bilibili.com/29867566)
 
-### Hi there 👋
+# Hi there 👋
 
 <br/>
 
 
 
-### Hobbies / 成分分析
+## 成分分析 / Hobbies
 
 <ul>
-<li>College student / 大学一年级
+<li>大学一年级 / College student
+<li>摄影、后期 / Photography, Video Editing
+<li>动漫 / Anime
+<li>B站小UP / Bilibili Uploader
+<li>在学习JavaWeb / Learning JavaWeb Now
 <li>接触过C、Java（主要）、Python、Kotlin
-<li>Learning JavaWeb Now / 正在学习JavaWeb，准备学习前端知识 owo
-<li>Photography, Video Editing / 摄影、后期
-<li>Anime / 动漫
-<li>B站小UP
 <li>Minecraft, Genshin Impact, CS:GO
-<li>Amateur astronomer, Natural science / 天文爱好者、自然科学爱好者
+<li>天文爱好者、自然科学爱好者 / Amateur astronomer, Natural science
+<li>互动友好 / Welcome to contact me!
 </ul>
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
+## 做过的项目 / Projects
+<ul>
+<li> 基于向日葵8号气象卫星的实时地球壁纸
+<li> 简易的电脑远程控制项目GhostJ-安卓主控端
+<li> 简单的跨平台通知同步项目-安卓端
+<li> 一个半成品的点餐系统 ~~（鸽了3年了）~~
+<li> 学校毕业生分布图网站 [stumap.idoknow.top](https://stumap.idoknow.top)
+<li> 基于trace.moe的以图搜番的手机端（官方更新了API之后没维护，所以现在用不了了，不过这网站是真强大
+<li> Ticketer Server
+<li> 一个可以在手机上以悬浮窗的形式运行H5游戏的软件~~（初学Android时用来练手的）~~
+<li> ......
+</ul>
 
-### Some Data / 一些数据
+## 联系我 / Contact me
+
+>  欢迎联系~
+
+-  ⌈ 邮件 ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
+-  ⌈ QQ ⌋：[905617992](https://qm.qq.com/cgi-bin/qm/qr?k=ZO0dHlDXgp2jBztY9xsdkUoZtQ8YcNw8&noverify=0)
+-  ⌈ 哔哩哔哩 ⌋：[Sorater噬魂](https://space.bilibili.com/29867566)
+
+## 一些数据 / Some Data 
+
 [![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soulter&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Soulter" align = "center"/></p>
@@ -32,3 +54,4 @@
 
 
 ![Metrics](https://metrics.lecoq.io/Soulter?template=classic&isocalendar=1&isocalendar.duration=full-year)
+，
