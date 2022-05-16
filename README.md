@@ -8,7 +8,7 @@
 
 <br/>
 
-## 成分分析 / Hobbies ⭐
+## 成分分析 / About Me ⭐
 
 <ul>
 <li>大学一年级 / College student 
