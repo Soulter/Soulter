@@ -5,6 +5,9 @@
 <br/>
 
 > It's all would be OK.
+> 
+> Purely Love Programming.
+> **纯粹地**热爱编程。
 
 <br/>
 
