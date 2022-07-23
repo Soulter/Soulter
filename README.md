@@ -34,6 +34,7 @@
 <li> [Python] 基于向日葵8号气象卫星的实时地球壁纸
 <li> [Java-Android] 简易的电脑远程控制项目GhostJ-安卓主控端
 <li> [Java-Android] 简单的跨平台通知同步项目-安卓端
+<li> [Java-Android] MinecraftServerManager - 获取MC服务器信息（版本、服务端、模式、玩家）
 <li> [Java] 一个半成品的点餐系统 <s>鸽了3年了，正准备用SSM+Element重构</s> 
 <li> [Java-Android] 基于trace.moe的以图搜番的手机端（官方更新了API之后没维护，所以现在用不了了，不过这网站是真强大
 <li> [Java] Ticketer Server - 定制化订单管理
