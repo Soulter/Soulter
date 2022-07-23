@@ -32,6 +32,7 @@
 <li> [Web] Sodiary - 一个轻量化CMS系统
 <li> [Web] 学校毕业生分布图网站 https://stumap.idoknow.top
 <li> [Python] 基于向日葵8号气象卫星的实时地球壁纸
+<li> [Python] 自动化获取某电商售后服务平台订单信息
 <li> [Java-Android] 简易的电脑远程控制项目GhostJ-安卓主控端
 <li> [Java-Android] 简单的跨平台通知同步项目-安卓端
 <li> [Java-Android] MinecraftServerManager - 获取MC服务器信息（版本、服务端、模式、玩家）
