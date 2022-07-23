@@ -30,7 +30,7 @@
 ## 做过的项目 / Projects 📰
 <ul>
 <li> [Web] Sodiary - 一个轻量化CMS系统
-<li> [Web] 学校毕业生分布图网站 [stumap.idoknow.top](https://stumap.idoknow.top)
+<li> [Web] 学校毕业生分布图网站 https://stumap.idoknow.top
 <li> [Python] 基于向日葵8号气象卫星的实时地球壁纸
 <li> [Java-Android] 简易的电脑远程控制项目GhostJ-安卓主控端
 <li> [Java-Android] 简单的跨平台通知同步项目-安卓端
