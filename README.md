@@ -14,20 +14,18 @@
 ## 成分分析 / About Me ⭐
 
 <ul>
-<li>大学一年级 / College student 
+<li>大二 / College student 
 <li>摄影、后期 / Photography, Video Editing
 <li>动漫 / Anime
 <li>B站小UP / Bilibili Uploader
-<li>在学习JavaWeb / Learning JavaWeb Now
-<li>接触过C、Java（主要）、Python、Kotlin
+<li>在学习JavaWeb / Learning JavaWeb Now 接触过C、Java（主要）、Python
 <li>Minecraft, Genshin Impact, CS:GO
-<li>天文爱好者、自然科学爱好者 / Amateur astronomer, Natural science
-<li>互动友好 / Welcome to contact me!
+<li>喜欢自然科学 / Love natural science
 </ul>
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
-## 做过的项目 / Projects 📰
+## 项目 / Projects 📰
 <ul>
 <li> [Web] Sodiary - 一个轻量化CMS系统
 <li> [Web] 学校毕业生分布图网站 https://stumap.idoknow.top
@@ -47,15 +45,12 @@
 
 
 
-## 联系我 / Contact me ☎️
-
->  欢迎联系~
+## 联系 / Contact me ☎️
 
 -  ⌈ 邮件 ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
 -  ⌈ QQ ⌋：[905617992](https://qm.qq.com/cgi-bin/qm/qr?k=ZO0dHlDXgp2jBztY9xsdkUoZtQ8YcNw8&noverify=0)
 -  ⌈ 哔哩哔哩 ⌋：[Sorater噬魂](https://space.bilibili.com/29867566)
 
-## 一些数据 / Some Data 
 
 [![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
  
