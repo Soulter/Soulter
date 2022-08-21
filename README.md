@@ -16,7 +16,7 @@
 <li>摄影、后期 / Photography, Video Editing
 <li>动漫 / Anime
 <li>B站小UP / Bilibili Uploader
-<li>在学习JavaWeb / Learning JavaWeb Now 接触过C、Java（主要）、Python
+<li>接触过C、Java（主要）、Python
 <li>Minecraft, Genshin Impact, CS:GO
 <li>喜欢自然科学 / Love natural science
 </ul>
