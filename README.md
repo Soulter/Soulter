@@ -47,7 +47,6 @@
 
 -  ⌈ 邮件 ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
 -  ⌈ QQ ⌋：[905617992](https://qm.qq.com/cgi-bin/qm/qr?k=ZO0dHlDXgp2jBztY9xsdkUoZtQ8YcNw8&noverify=0)
--  ⌈ 哔哩哔哩 ⌋：[Sorater噬魂](https://space.bilibili.com/29867566)
 
 
 [![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
