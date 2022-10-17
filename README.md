@@ -9,17 +9,6 @@
 
 <br/>
 
-## 成分分析 / About Me ⭐
-
-<ul>
-<li>大二 / College student 
-<li>摄影、后期 / Photography, Video Editing
-<li>动漫 / Anime
-<li>B站小UP / Bilibili Uploader
-<li>接触过C、Java（主要）、Python
-<li>Minecraft, Genshin Impact, CS:GO
-<li>喜欢自然科学 / Love natural science
-</ul>
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
@@ -41,6 +30,22 @@
 <li> ......
 </ul>
 
+<br/>
+
+
+## 成分分析 / About Me ⭐
+
+<ul>
+<li>大二 / College student 
+<li>摄影、后期 / Photography, Video Editing
+<li>动漫 / Anime
+<li>B站小UP / Bilibili Uploader
+<li>接触过C、Java（主要）、Python
+<li>Minecraft, Genshin Impact, CS:GO
+<li>喜欢自然科学 / Love natural science
+</ul>
+
+<br/>
 
 
 ## 联系 / Contact me ☎️
