@@ -41,8 +41,9 @@
 <li>动漫 / Anime
 <li>B站小UP / Bilibili Uploader
 <li>接触过C、Java（主要）、Python
-<li>Minecraft, Genshin Impact, CS:GO
-<li>喜欢自然科学 / Love natural science
+<!-- <li>Minecraft, Genshin Impact, CS:GO -->
+<li>Minecraft
+<!-- <li>喜欢自然科学 / Love natural science -->
 </ul>
 
 <br/>
@@ -55,8 +56,10 @@
 
 
 [![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://profile-counter.glitch.me/{Soulter}/count.svg" />
  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soulter&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Soulter" align = "center"/></p>
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soulter&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Soulter" align = "center"/></p> -->
 
 <!-- ![Metrics](https://metrics.lecoq.io/Soulter?template=classic&isocalendar=1&isocalendar.duration=full-year) -->
 
