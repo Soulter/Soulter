@@ -6,11 +6,25 @@
 
 > It's all would be OK.
 
-
 <br/>
 
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
+
+
+## 关于 / About Me ⭐
+
+<ul>
+<li> 🏫 College sophomore student 
+<!-- <li>摄影、后期 / Photography, Video Editing -->
+<!-- <li>动漫 / Anime -->
+<li> 🍕 Web Developer, Learning Vue.js, Electron, Golang now.
+<!-- <li>Minecraft, Genshin Impact, CS:GO -->
+<!-- <li>Minecraft -->
+<!-- <li>喜欢自然科学 / Love natural science -->
+</ul>
+
+<br/>
 
 ## 项目 / Projects 📰
 <ul>
@@ -28,22 +42,6 @@
 <li> [C] Unlimited War - 基于Funcode游戏引擎，小组制作的一款游戏。（学校作业）
 <li> <s>[Deprecated] 基于trace.moe的以图搜番的手机端（官方更新了API之后没维护，所以现在用不了了，不过这网站是真强大</s>
 <li> ......
-</ul>
-
-<br/>
-
-
-## 成分分析 / About Me ⭐
-
-<ul>
-<li>大二 / College student 
-<li>摄影、后期 / Photography, Video Editing
-<li>动漫 / Anime
-<li>B站小UP / Bilibili Uploader
-<li>接触过C、Java（主要）、Python
-<!-- <li>Minecraft, Genshin Impact, CS:GO -->
-<li>Minecraft
-<!-- <li>喜欢自然科学 / Love natural science -->
 </ul>
 
 <br/>
