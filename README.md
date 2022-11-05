@@ -1,6 +1,6 @@
 [![Bilibili](https://img.shields.io/badge/dynamic/json?label=bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D29867566%26jsonp%3Djsonp)](https://space.bilibili.com/29867566)
 
-# Hi there, I'm Soulter : ) 👋
+# Hi there, I'm Soulter : )
 
 <br/>
 
@@ -12,7 +12,7 @@
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
 
-## 关于 / About Me ⭐
+## 关于 / About Me
 
 <ul>
 <li> 🏫 College sophomore student 
@@ -26,7 +26,7 @@
 
 <br/>
 
-## 项目 / Projects 📰
+## 项目 / Projects
 <ul>
 <li> [Web] Sodiary - 一个轻量化CMS系统
 <li> [Web] 学校毕业生分布图网站 https://stumap.idoknow.top
