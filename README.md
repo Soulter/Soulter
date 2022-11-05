@@ -47,7 +47,7 @@
 <br/>
 
 
-## 联系 / Contact me ☎️
+## 联系 / Contact me
 
 -  ⌈ 邮件 ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
 -  ⌈ QQ ⌋：[905617992](https://qm.qq.com/cgi-bin/qm/qr?k=ZO0dHlDXgp2jBztY9xsdkUoZtQ8YcNw8&noverify=0)
