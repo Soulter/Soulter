@@ -54,8 +54,8 @@
 
 
 [![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
-<img src="https://profile-counter.glitch.me/{Soulter}/count.svg" />
+<!-- 
+<img src="https://profile-counter.glitch.me/{Soulter}/count.svg" /> -->
  
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soulter&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Soulter" align = "center"/></p> -->
 
