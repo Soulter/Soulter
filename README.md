@@ -6,11 +6,7 @@
 
 > It's all would be OK.
 
-<br/>
-
-
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
-
 
 ## 关于 / About Me
 
@@ -23,8 +19,6 @@
 <!-- <li>Minecraft -->
 <!-- <li>喜欢自然科学 / Love natural science -->
 </ul>
-
-<br/>
 
 <!-- ## 项目 / Projects
 <ul>
@@ -43,20 +37,22 @@
 <li> <s>[Deprecated] 基于trace.moe的以图搜番的手机端（官方更新了API之后没维护，所以现在用不了了，不过这网站是真强大</s>
 <li> ......
 </ul> -->
-
 <br/>
-
 
 ## 联系 / Contact me
 
 -  ⌈ 邮件 ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
 -  ⌈ QQ ⌋：[905617992](https://qm.qq.com/cgi-bin/qm/qr?k=ZO0dHlDXgp2jBztY9xsdkUoZtQ8YcNw8&noverify=0)
+<br/>
+<br/>
 
+<p align="center">
+ <img href="https://github.com/Soulter" src="https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly">
 
-[![Soulter's stats](https://github-readme-stats.vercel.app/api?username=Soulter&title_color=fa4694&count_private=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
+<p align="center">
 <img src="https://profile-counter.glitch.me/{Soulter}/count.svg" />
- 
+</p>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Soulter&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Soulter" align = "center"/></p> -->
 
 <!-- ![Metrics](https://metrics.lecoq.io/Soulter?template=classic&isocalendar=1&isocalendar.duration=full-year) -->
