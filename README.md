@@ -1,4 +1,5 @@
-[![Bilibili](https://img.shields.io/badge/dynamic/json?label=bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D29867566%26jsonp%3Djsonp)](https://space.bilibili.com/29867566)
+<!-- [![Bilibili](https://img.shields.io/badge/dynamic/json?label=bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D29867566%26jsonp%3Djsonp)](https://space.bilibili.com/29867566)
+-->
 
 # Hi there, I'm Soulter : )
 
