@@ -26,7 +26,7 @@
 
 <br/>
 
-## 项目 / Projects
+<!-- ## 项目 / Projects
 <ul>
 <li> [Web] Sodiary - 一个轻量化CMS系统
 <li> [Web] 学校毕业生分布图网站 https://stumap.idoknow.top
@@ -42,7 +42,7 @@
 <li> [C] Unlimited War - 基于Funcode游戏引擎，小组制作的一款游戏。（学校作业）
 <li> <s>[Deprecated] 基于trace.moe的以图搜番的手机端（官方更新了API之后没维护，所以现在用不了了，不过这网站是真强大</s>
 <li> ......
-</ul>
+</ul> -->
 
 <br/>
 
