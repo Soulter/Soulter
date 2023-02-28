@@ -15,7 +15,7 @@
 <li> 🏫 College sophomore student 
 <!-- <li>摄影、后期 / Photography, Video Editing -->
 <!-- <li>动漫 / Anime -->
-<li> 🍕 Web Developer, Learning Vue.js, Electron, Golang now.
+<li> 🍕 Web Developer, Learning Vue.js, Electron, JavaScript now.
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
 <!-- <li>喜欢自然科学 / Love natural science -->
