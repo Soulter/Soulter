@@ -9,7 +9,7 @@
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
-## 关于 / About Me
+## About Me
 
 <ul>
 <li> 🏫 College sophomore student 
@@ -43,9 +43,9 @@
 </ul> -->
 <br/>
 
-## 联系 / Contact me
+## Contact me
 
--  ⌈ 邮件 ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
+-  ⌈ E-mail ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
 -  ⌈ QQ ⌋：[905617992](https://qm.qq.com/cgi-bin/qm/qr?k=ZO0dHlDXgp2jBztY9xsdkUoZtQ8YcNw8&noverify=0)
 <br/>
 <br/>
