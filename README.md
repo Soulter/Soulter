@@ -17,7 +17,7 @@
 <!-- <li>动漫 / Anime -->
 <li> 🍕 Web Developer, Learning Vue.js, Electron, JavaScript now. 
 <li> 🥰 Love Animes, Astronomy
-<li> 😙 Stack: Vue.js | JavaScript | Python | Java | SpringBoot | MySQL
+<li> 😙 Stack: Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML
 <li> 🤗 Job Intention: Web Front End (most wanted) | Back End
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
