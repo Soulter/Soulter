@@ -45,6 +45,8 @@
 
 ## Happy Code Time
 
+<figure><embed src="https://wakatime.com/share/@Soulter/16f8a829-20dc-4a92-9c40-1b257459952b.svg"></embed></figure>
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
