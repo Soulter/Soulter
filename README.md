@@ -45,6 +45,8 @@
 
 ## Happy Code Time
 
+<img src="https://wakatime.com/share/@Soulter/16f8a829-20dc-4a92-9c40-1b257459952b.svg" width="500"/>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2037%20mins-blue)
 
@@ -84,6 +86,7 @@ Sunday                   208 commits         ████░░░░░░░�
 
 
 📊 **This Week I Spent My Time On** 
+
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
