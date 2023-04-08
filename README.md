@@ -15,9 +15,9 @@
 <li> 🏫 College sophomore student 
 <!-- <li>摄影、后期 / Photography, Video Editing -->
 <!-- <li>动漫 / Anime -->
-<li> 🍕 Web Developer, Learning Vue.js, Electron, JavaScript now. 
+<li> 🍕 Web Developer, Learning Golang now. 
 <li> 🥰 Love Animes, Astronomy
-<li> 😙 Stack: Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML
+<li> 😙 Stack: Golang |Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML
 <li> 🤗 Job Intention: Web Front End | Back End (most wanted)
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
