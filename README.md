@@ -5,7 +5,7 @@
 
 <br/>
 
-> It's all would be OK.
+> Coding with love.
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
