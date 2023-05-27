@@ -17,7 +17,7 @@
 <!-- <li>动漫 / Anime -->
 <li> 🍕 Web Developer, Learning Golang now. 
 <li> 🥰 Love Animes, Astronomy
-<li> 😙 Stack: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
+<li> 😙 Stacks: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
 <li> 🤗 Job Intention: Web Front End | Back End (most wanted)
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
