@@ -15,10 +15,10 @@
 <li> 🏫 College sophomore student 
 <!-- <li>摄影、后期 / Photography, Video Editing -->
 <!-- <li>动漫 / Anime -->
-<li> 🍕 Web Developer, Learning Golang now. 
-<li> 🥰 Love Animes, Astronomy
-<li> 😙 Stacks: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
-<li> 🤗 Job Intention: Operating System | Back End | Software develop (most wanted)
+<li> 🛣️ Learning Golang now. 
+<li> 🍕 Love Animes, Astronomy
+<li> 🌌 Stacks: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
+<li> 🌏 Want to do: Operating System | Back End | Software develop
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
 <!-- <li>喜欢自然科学 / Love natural science -->
