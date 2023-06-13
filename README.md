@@ -9,20 +9,17 @@
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
-## About Me
+## About Me / 关于
 
-<ul>
-<li> 🏫 College sophomore student 
-<!-- <li>摄影、后期 / Photography, Video Editing -->
-<!-- <li>动漫 / Anime -->
-<li> 🛣️ Learning Golang now. 
-<li> 🍕 Love Animes, Astronomy
-<li> 🌌 Stacks: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
-<li> 🌏 Want to do: Operating System | Back End | Software develop
+- 🏞️ I'm from **Guilin(China)**
+- 🏫 College sophomore student at USTB(China)
+- 🛣️ **Learning** Golang, Operating System, Database structure now. 
+- 🍕 **Love** Animes, Astronomy
+- 🌌 **Perfecting the world with**: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
+- 🌏 **Want to do**: Operating System | Back End | Software develop
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
 <!-- <li>喜欢自然科学 / Love natural science -->
-</ul>
 
 <!-- ## 项目 / Projects
 <ul>
@@ -47,7 +44,7 @@
 
 <img src="https://wakatime.com/share/@Soulter/16f8a829-20dc-4a92-9c40-1b257459952b.svg" width="500"/>
 
-## Contact me
+## Contact me / 联系方式
 
 -  ⌈ E-mail ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
 -  ⌈ QQ ⌋：[905617992](https://qm.qq.com/cgi-bin/qm/qr?k=ZO0dHlDXgp2jBztY9xsdkUoZtQ8YcNw8&noverify=0)
