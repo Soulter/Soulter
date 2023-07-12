@@ -13,10 +13,10 @@
 
 - 🏞️ I'm from **Guilin(China)**
 - 🏫 College sophomore student at USTB(China)
-- 🛣️ **Learning** Golang, Operating System, Database structure now. 
+- 🛣️ **Learning** Golang, DBMS now. 
 - 🍕 **Love** Animes, Astronomy
 - 🌌 **Perfecting the world with**: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
-- 🌏 **Want to do**: Operating System | Back End | Software develop
+- 🌏 **Want to do**: Back End | Software develop
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
 <!-- <li>喜欢自然科学 / Love natural science -->
