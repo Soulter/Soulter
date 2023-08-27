@@ -12,7 +12,7 @@
 ## About Me / 关于
 
 - 🏞️ I'm from **Guilin(China)**
-- 🏫 College sophomore student at USTB(China)
+- 🏫 College sophomore student at USTB
 - 🛣️ **Learning** Golang, DBMS now. 
 - 🍕 **Love** Animes, Astronomy
 - 🌌 **Perfecting the world with**: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
