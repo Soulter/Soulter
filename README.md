@@ -43,7 +43,7 @@
 ## Code Time & Code Rank
 
 <div>
- <img src="https://wakatime.com/share/@Soulter/16f8a829-20dc-4a92-9c40-1b257459952b.svg" width="400" style="display: inline-block;"/>
+ <img src="https://wakatime.com/share/@Soulter/16f8a829-20dc-4a92-9c40-1b257459952b.svg" width="380" style="display: inline-block;"/>
  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Soulter" width="420"/>
 </div>
 
