@@ -36,11 +36,16 @@
 <br/>
 
 ## Code Time & Code Rank
-
+<img
+  width="600"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Soulter&badges=2&show-avatar=false"
+/>
 <div>
- <img src="https://wakatime.com/share/@Soulter/16f8a829-20dc-4a92-9c40-1b257459952b.svg" width="380" style="display: inline-block;"/>
- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Soulter" width="420"/>
+ <img src="https://wakatime.com/share/@Soulter/16f8a829-20dc-4a92-9c40-1b257459952b.svg" width="290" style="display: inline-block;"/>
+ <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Soulter" width="323"/>
 </div>
+
+
 
 
 
