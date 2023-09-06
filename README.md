@@ -1,7 +1,8 @@
 <!-- [![Bilibili](https://img.shields.io/badge/dynamic/json?label=bilibili&query=%24.data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D29867566%26jsonp%3Djsonp)](https://space.bilibili.com/29867566)
 -->
 
-![abf325091fa13a95abaaf1884ba6f7c6](https://github.com/Soulter/Soulter/assets/37870767/69bcd4a7-e896-440a-a90e-bdea6b9cf0c5)
+<!--![abf325091fa13a95abaaf1884ba6f7c6](https://github.com/Soulter/Soulter/assets/37870767/69bcd4a7-e896-440a-a90e-bdea6b9cf0c5)-->
+
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
 ## About Me / 关于
