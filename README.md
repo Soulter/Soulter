@@ -37,7 +37,8 @@
 </ul> -->
 <br/>
 
-## Code Time & Code Rank
+<details>
+  <summary>Code Time & Code Rank</summary>
 <img
   width="600"
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Soulter&badges=0&show-avatar=false"
@@ -47,6 +48,7 @@
  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Soulter" width="323"/>
 </div>
 
+</details>
 
 
 
