@@ -11,7 +11,7 @@
 - 🏫 College sophomore student at USTB
 - 🛣️ **Learning** Golang, DBMS now. 
 - 🍕 **Love** Animes, Astronomy
-- 🌌 **Perfecting the world with**: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
+- 🌌 **Perfecting the world with**: Python | Golang | Java | Vue.js | JavaScript | SpringBoot | MySQL | CSS | HTML | Android | Git 
 - 🌏 **Want to do**: Software develop
 - 🏢 **Working** in Sohu.com
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
