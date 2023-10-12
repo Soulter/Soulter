@@ -12,7 +12,7 @@
 - 🛣️ **Learning** Golang, DBMS now. 
 - 🍕 **Love** Animes, Astronomy
 - 🌌 **Perfecting the world with**: Golang | Vue.js | JavaScript | Python | Java | SpringBoot | MySQL | CSS | HTML | Android | Git 
-- 🌏 **Want to do**: Back End | Software develop
+- 🌏 **Want to do**: Software develop
 - 🏢 **Working** in Sohu.com
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
