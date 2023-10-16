@@ -5,6 +5,9 @@
 
 <!-- Made the acquaintance of [Rockchin](https://github.com/RockchinQ) in Junior 3, and starting the road of further programming learning. -->
 
+[![Afadian](https://img.shields.io/badge/爱发电!-%234ea94b.svg?style=for-the-badge&logo=coffee&logoColor=white)](https://afdian.net/a/soulter)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee!-%234ea94b.svg?style=for-the-badge&logo=juice&logoColor=white)](https://www.buymeacoffee.com/soulter)
+
 ## About Me / 关于
 
 - 🏞️ I'm from **Guilin(China)**
