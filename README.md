@@ -10,13 +10,13 @@
 
 ## About Me / 关于
 
-- 🏞️ I'm from **Guilin(China)**
-- 🏫 College sophomore student at USTB
-- 🛣️ **Learning** Golang, DBMS now. 
-- 🍕 **Love** Animes, Astronomy
+- 🏞️ I'm from **Guilin (China)**
+- 🏫 A College junior student at USTB
+- 🛣️ **Learning** DBMS now. 
+- 🍕 **Love** Animes, Astronomy, Natural Science
 - 🌌 **Perfecting the world with**: Python | Golang | Java | Vue.js | JavaScript | SpringBoot | MySQL | CSS | HTML | Android | Git 
 - 🌏 **Want to do**: Software develop
-- 🏢 **Working** in Sohu.com
+<!-- - 🏢 **Worked** at Sohu.com -->
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
 <!-- <li>喜欢自然科学 / Love natural science -->
@@ -41,11 +41,7 @@
 <br/>
 
 <details>
-  <summary>Code Time & Code Rank</summary>
-<img
-  width="600"
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=Soulter&badges=0&show-avatar=false"
-/>
+  <summary>Code Stats</summary>
 <div>
  <img src="https://wakatime.com/share/@Soulter/16f8a829-20dc-4a92-9c40-1b257459952b.svg" width="290" style="display: inline-block;"/>
  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Soulter" width="323"/>
