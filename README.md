@@ -11,7 +11,7 @@
 ## About Me / 关于
 
 - 🏞️ I'm from **Guilin (China)**
-- 🏫 A College junior student at USTB
+- 🏫 A college junior student at USTB
 - 🛣️ **Learning** DBMS now. 
 - 🍕 **Love** Animes, Astronomy, Natural Science
 - 🌌 **Perfecting the world with**: Python | Golang | Java | Vue.js | JavaScript | SpringBoot | MySQL | CSS | HTML | Android | Git 
