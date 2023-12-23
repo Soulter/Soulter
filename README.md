@@ -16,7 +16,7 @@
 - 🍕 **Love** Animes, Astronomy, Natural Science
 - 🌌 **Perfecting the world with**: Python | Golang | Java | Vue.js | JavaScript | SpringBoot | MySQL | CSS | HTML | Android | Git 
 - 🌏 **Want to do**: Software develop
-<!-- - 🏢 **Worked** at Sohu.com -->
+- 🏢 **Working** at Xiaohongshu
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
 <!-- <li>Minecraft -->
 <!-- <li>喜欢自然科学 / Love natural science -->
