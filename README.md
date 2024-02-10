@@ -14,7 +14,7 @@
 - 🏫 A college junior student at USTB
 - 🛣️ **Learning** DBMS now. 
 - 🍕 **Love** Animes, Astronomy, Natural Science
-- 🌌 **Perfecting the world with**: Python | Golang | Java | Vue.js | JavaScript | SpringBoot | MySQL | CSS | HTML | Android | Git 
+- 🌌 **Perfecting the world with**: Python | Golang | Java | Vue.js | JavaScript | SpringBoot | MySQL | Android
 - 🌏 **Want to do**: Software develop
 - 🏢 **Working** at Xiaohongshu
 <!-- <li>Minecraft, Genshin Impact, CS:GO -->
