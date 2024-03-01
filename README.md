@@ -12,7 +12,6 @@
 
 - 🏫 A college junior student
 - 🍕 **Love** Animes, Astronomy, Natural Science
-- 🌌 **Perfecting the world with**: Python | Golang | Java | Vue.js | JavaScript | SpringBoot | MySQL | Android
 
 <br/>
 
