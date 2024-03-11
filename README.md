@@ -11,7 +11,9 @@
 ## About Me
 
 - 🏫 A college junior student
-- 🍕 **Love** Animes, Astronomy, Natural Science
+- 🖊 Studying ML/DL Now
+- 🍕 Love Animes, Astronomy, Natural Science
+- 🌌 Create an ATRI
 
 <br/>
 
