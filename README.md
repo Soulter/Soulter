@@ -16,7 +16,7 @@
 - 🌌 Create an ATRI
 
 <br/>
-
+<!--
 <details>
   <summary>Code Stats</summary>
 <div>
@@ -25,6 +25,7 @@
 </div>
 
 </details>
+-->
 
 ## Contact me
 
