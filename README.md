@@ -11,9 +11,9 @@
 ## About Me
 
 - 🏫 A college junior student
-- 🖊 Studying ML/DL Now
+- 🖊 Studying ML/DL Currently
 - 🍕 Love Animes, Astronomy, Natural Science
-- 🌌 Create an ATRI
+- 🌌 Dream to create an ATRI
 
 <br/>
 <!--
