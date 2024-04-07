@@ -12,7 +12,7 @@
 
 - 🏫 A college junior student
 - 🖊 Studying ML/DL Currently
-- 🌍 Studying at USTB & MAIS, Chinese Academy of Sciences
+- 🌍 Studying at USTB & MAIS, CASIA
 - 🍕 Love Animes, Astronomy, Natural Science
 - 🌌 Dream to create an ATRI
 
