@@ -12,7 +12,7 @@
 
 - 🏫 A college junior student
 - 🖊 Studying ML/DL Currently
-- 🌍 Studying at USTB & MAIS, CASIA
+- 🌍 Study multimodal Agents AI / AIGC in CASIA-MAIS Lab
 - 🍕 Love Animes, Astronomy, Natural Science
 - 🌌 Dream to create an ATRI
 
