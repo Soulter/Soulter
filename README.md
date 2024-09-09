@@ -32,6 +32,9 @@
 -  ⌈ E-mail ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
 -  ⌈ Telegram ⌋：[soulter618](https://t.me/soulter618)
 
+ <!-- waka-box start -->
+ <!-- waka-box end -->
+
 </p>
 <p align="center">
 <img src="https://profile-counter.glitch.me/{Soulter}/count.svg" />
