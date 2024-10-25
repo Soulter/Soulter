@@ -27,7 +27,7 @@
 
 > 🚀 Open to accept any interesting coopration/internship invitation!
 
--  ⌈ E-mail ⌋：[SoulterL@outlook.com](SoulterL@outlook.com)
+-  ⌈ E-mail ⌋：`echo 'c291bHRlckBxcS5jb20K' | base64 -d`
 -  ⌈ Telegram ⌋：[soulter618](https://t.me/soulter618)
 
  <!-- waka-box start -->
