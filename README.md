@@ -39,6 +39,18 @@
 
 <!--START_SECTION:waka-->
 
+```txt
+From: 08 October 2024 - To: 07 November 2024
+
+Total Time: 146 hrs 26 mins
+
+C++           86 hrs 47 mins  █████████████▓░░░░░░░░░░░   55.10 %
+Python        18 hrs 7 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.51 %
+Other         11 hrs 3 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Markdown      9 hrs 43 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 %
+Go            9 hrs 22 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+```
+
 <!--END_SECTION:waka-->
 
 
