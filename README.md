@@ -40,15 +40,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 October 2024 - To: 17 November 2024
+From: 19 October 2024 - To: 18 November 2024
 
-Total Time: 181 hrs 36 mins
+Total Time: 182 hrs 17 mins
 
-C++           89 hrs 37 mins  ███████████▓░░░░░░░░░░░░░   46.67 %
-Python        22 hrs 31 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
-Vue.js        19 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 %
-Markdown      15 hrs 16 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-Go            10 hrs 44 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.59 %
+C++           84 hrs 48 mins  ███████████░░░░░░░░░░░░░░   44.12 %
+Python        27 hrs 1 min    ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Vue.js        19 hrs 47 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.30 %
+Markdown      15 hrs 9 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Go            11 hrs 6 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 %
 ```
 
 <!--END_SECTION:waka-->
