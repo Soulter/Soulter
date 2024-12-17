@@ -11,7 +11,7 @@
 
 - 🏫 A college junior student.
 - 🍕 Love Animes, Astronomy, Natural Science.
-- ⭐ Focusing on LLM, MLM receltly.
+- ⭐ Focusing on LLM, MLM recently.
 - 🌌 Dream to create an ATRI.
 
 🍉 **Skills**
