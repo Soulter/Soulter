@@ -9,9 +9,10 @@
 
 💭 **About Me**
 
-- 🏫 A college junior student
-- 🍕 Love Animes, Astronomy, Natural Science
-- 🌌 Dream to create an ATRI
+- 🏫 A college junior student.
+- 🍕 Love Animes, Astronomy, Natural Science.
+- ⭐ Focusing on LLM, MLM receltly.
+- 🌌 Dream to create an ATRI.
 
 🍉 **Skills**
 
