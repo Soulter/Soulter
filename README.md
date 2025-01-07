@@ -41,15 +41,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 December 2024 - To: 04 January 2025
+From: 06 December 2024 - To: 05 January 2025
 
-Total Time: 160 hrs 28 mins
+Total Time: 152 hrs 13 mins
 
-Python        113 hrs 9 mins  █████████████████▓░░░░░░░   70.42 %
-Markdown      17 hrs 15 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.74 %
-TypeScript    6 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-YAML          5 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.14 %
-JavaScript    4 hrs 5 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.55 %
+Python        104 hrs 53 mins █████████████████▒░░░░░░░   68.81 %
+Markdown      17 hrs 20 mins  ███░░░░░░░░░░░░░░░░░░░░░░   11.38 %
+TypeScript    6 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 %
+YAML          5 hrs 2 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+JavaScript    4 hrs 3 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
 ```
 
 <!--END_SECTION:waka-->
