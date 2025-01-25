@@ -41,15 +41,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2024 - To: 22 January 2025
+From: 24 December 2024 - To: 23 January 2025
 
-Total Time: 123 hrs 36 mins
+Total Time: 121 hrs 16 mins
 
-Python        89 hrs 29 mins  ██████████████████░░░░░░░   72.23 %
-Vue.js        10 hrs 59 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.88 %
-HTML          6 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Markdown      5 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
-JavaScript    3 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+Python        85 hrs 10 mins  █████████████████▓░░░░░░░   70.06 %
+Vue.js        10 hrs 59 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.05 %
+Markdown      7 hrs 7 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
+HTML          6 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.14 %
+JavaScript    3 hrs 1 min     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
 ```
 
 <!--END_SECTION:waka-->
