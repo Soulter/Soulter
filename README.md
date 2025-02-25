@@ -9,7 +9,7 @@
 
 💭 **About Me**
 
-- 🏫 A college junior student.
+- 🏫 A college junior student @USTB.
 - 🍕 Love Animes, Astronomy, Natural Science.
 - ⭐ Focusing on LLM, MLM recently.
 - 🌌 Dream to create an ATRI.
