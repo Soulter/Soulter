@@ -6,7 +6,7 @@
 
 I work with Python, Javascript, Golang, Large Language Models, LLM-based Agents, and a little bit of hardwares. I love programing and I’ve published several repositories that have collectively gained over 12k stars, such as [AstrBot](https://github.com/AstrBotDevs/AstrBot).
 
-During my college years, I was a member of [@USTB-806](https://github.com/ustb-806), where I further honed my technical skills. Currently, I’m interning at [MoonshotAI](https://kimi.moonshot.cn/), contributing to the development of LLM-based agent software like Deep Research and Computer Use Agent.
+During my college years, I was a member of [@USTB-806](https://github.com/ustb-806), where I further honed my technical skills. Currently, I’m interning at [MoonshotAI](https://kimi.moonshot.cn/).
 
 I also dedicate time to writing [blogs](https://blog.soulter.top/), sharing my insights and experiences along the way.
 
