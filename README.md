@@ -25,15 +25,15 @@ I also dedicate time to writing [blogs](https://blog.soulter.top/), sharing my i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 July 2025 - To: 08 August 2025
+From: 10 July 2025 - To: 09 August 2025
 
-Total Time: 130 hrs 20 mins
+Total Time: 121 hrs 37 mins
 
-Python               87 hrs          ████████████████▓░░░░░░░░   66.06 %
-Vue.js               22 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.28 %
-Markdown             4 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
-TypeScript           3 hrs 37 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 %
-JavaScript           2 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Python               80 hrs 28 mins  ████████████████▒░░░░░░░░   65.45 %
+Vue.js               21 hrs 45 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Markdown             4 hrs 34 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+TypeScript           3 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JavaScript           2 hrs 29 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
 ```
 
 <!--END_SECTION:waka-->
