@@ -12,7 +12,7 @@ I also dedicate time to writing [blogs](https://blog.soulter.top/), sharing my i
 
 🚀 Open to accept any interesting coopration/internship invitation! Here are my contacts:
 
--  ⌈ E-mail ⌋：`echo 'c291bHRlckBxcS5jb20K' | base64 -d`
+-  ⌈ E-mail ⌋：[soulter@qq.com](mailto:soulter@qq.com)
 -  ⌈ Telegram ⌋：[soulter618](https://t.me/soulter618)
 
 💻 **My Stats**
