@@ -25,7 +25,7 @@ I also dedicate time to writing [blogs](https://blog.soulter.top/), sharing my i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 August 2025 - To: 19 September 2025
+From: 21 August 2025 - To: 20 September 2025
 
 Total Time: 108 hrs 44 mins
 
