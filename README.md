@@ -3,7 +3,7 @@
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee!-%234ea94b.svg?style=for-the-badge&logo=juice&logoColor=white)](https://www.buymeacoffee.com/soulter)
 
 <a href="#">
-  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Soulter&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=323464&icon_color=323464&count_private=true" />
+  <img align="right" src="https://github-readme-stats-one-bice.vercel.app/api?username=Soulter&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&text_color=303f64&title_color=080a44&icon_color=080a44&count_private=true" />
 </a>
 
 👋 Hi! I'm Soulter
