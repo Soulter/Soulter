@@ -29,15 +29,15 @@ I also dedicate time to writing [blogs](https://blog.soulter.top/), sharing my i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 November 2025 - To: 03 December 2025
+From: 04 November 2025 - To: 04 December 2025
 
-Total Time: 164 hrs 55 mins
+Total Time: 167 hrs 3 mins
 
-Python       109 hrs 36 mins ████████████████▒░░░░░░░░   65.67 %
-Markdown     16 hrs 37 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-Vue.js       15 hrs 8 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-JSON         8 hrs 15 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-TypeScript   3 hrs 24 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+Python       110 hrs 59 mins ████████████████▒░░░░░░░░   65.73 %
+Vue.js       17 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Markdown     15 hrs 43 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.32 %
+JSON         7 hrs 38 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 %
+JavaScript   4 hrs 46 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
