@@ -4,7 +4,7 @@
 
 ### Soulter 
 
-I work with Python, Javascript, Golang, and I interested in LLMs, LLM-based Agents, Agent Memory, Information Retrieval, and a little bit of hardwares. I’ve published several repositories that have collectively gained over 12k stars, such as [AstrBot](https://github.com/AstrBotDevs/AstrBot).
+I work with Python, Javascript, Golang, and I interested in LLMs, LLM-based Agents, Agent Memory, Information Retrieval, and a little bit of hardwares. I’ve published several repositories that have collectively gained over 12k stars, such as [AstrBot](https://github.com/AstrBotDevs/AstrBot). Currently I'm in BUPT, previous at USTB and MoonshotAI.
 
 I also dedicate time to writing [blogs](https://blog.soulter.top/), sharing my insights and experiences along the way.
 
