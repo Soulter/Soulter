@@ -31,15 +31,15 @@ My dream is to build an ATRI.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 December 2025 - To: 24 January 2026
+From: 26 December 2025 - To: 25 January 2026
 
-Total Time: 156 hrs 13 mins
+Total Time: 158 hrs 24 mins
 
-Python                105 hrs 7 mins  ████████████████▓░░░░░░░░   66.67 %
-JSON                  16 hrs 8 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.24 %
-Vue.js                14 hrs 29 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 %
-Markdown              9 hrs 52 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.27 %
-TypeScript            2 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.38 %
+Python                104 hrs 4 mins  ████████████████▒░░░░░░░░   65.12 %
+JSON                  17 hrs 24 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Vue.js                14 hrs 29 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
+Markdown              11 hrs 51 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+TypeScript            2 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
 ```
 
 <!--END_SECTION:waka-->
