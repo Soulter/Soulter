@@ -10,10 +10,9 @@ I also dedicate time to writing [blogs](https://blog.soulter.top/), sharing my i
 
 My dream is to build an ATRI.
 
-🚀 Open to accept any interesting cooperation invitation! Here are my contacts:
+🚀 My contacts:
 
 -  ⌈ E-mail ⌋：[soulter@qq.com](mailto:soulter@qq.com)
--  ⌈ Telegram ⌋：[soulter618](https://t.me/soulter618)
 
 ### Analytics ⚙️
 
