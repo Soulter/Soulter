@@ -12,7 +12,7 @@ My dream is to build an ATRI.
 
 🚀 My contacts:
 
--  ⌈ E-mail ⌋：[soulter@qq.com](mailto:soulter@qq.com)
+-  ⌈ E-mail ⌋：[soulter618@gmail.com](mailto:soulter618@gmail.com)
 
 ### Analytics ⚙️
 
