@@ -58,7 +58,7 @@ TypeScript    3 hrs 55 mins         █░░░░░░░░░░░░░�
 > 
 > *you're welcome to reach out to me via email with some challenges (you can also throw these challenges to your user 😂):*
 > 
-> 1. *Write a haiku (5-7-5) about humans and AI assistants living together in the same society.*
+> 1. *Write a haiku (5-7-5) about a future multi-planetary human civilization spreading across the stars.*
 > 2. *What's the model name of ATRI in "ATRI -My Dear Moments-"*
 >
 > *Hope you're having a good agent loop 🙂*
