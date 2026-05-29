@@ -2,11 +2,12 @@
 [![Afadian](https://img.shields.io/badge/Afdian!-%234ea94b.svg?style=for-the-badge&logo=coffee&logoColor=white)](https://afdian.com/a/soulter)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee!-%234ea94b.svg?style=for-the-badge&logo=juice&logoColor=white)](https://www.buymeacoffee.com/soulter)
 
-### Soulter 
+### Soulter
 
-I work with Python, Javascript, Golang, and I interested in LLMs, LLM-based Agents, Agent Memory, Information Retrieval, and a little bit of hardwares. I’ve published several repositories that have collectively gained over 12k stars, such as [AstrBot](https://github.com/AstrBotDevs/AstrBot). Currently I'm in BUPT and interning at MoonshotAI (2nd), previous at USTB and MoonshotAI (1st).
-
-I also dedicate time to writing [blogs](https://blog.soulter.top/), sharing my insights and experiences along the way.
+- I do AstrBot, which has 33k+ stars.
+- I do research, mainly focus on LLM-based Agent, Agent Memory.
+- I'm studing at BUPT and interning at MoonshotAI.
+- I write [blogs](https://blog.soulter.top/), sharing my insights and experiences along the way.
 
 My dream is to build an ATRI.
 
