@@ -7,6 +7,7 @@
 - I do AstrBot, which has 33k+ stars.
 - I do research, mainly focus on LLM-based Agent, Agent Memory.
 - I'm studing at BUPT and interning at MoonshotAI.
+- I play guitar!
 - I write [blogs](https://blog.soulter.top/), sharing my insights and experiences along the way.
 
 My dream is to build an ATRI.
