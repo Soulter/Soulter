@@ -19,12 +19,8 @@ My dream is to build an ATRI.
 ⚙️ My projects:
 
 -  [AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM chatbot.
--  [vibe-atlas](https://github.com/Soulter/vibe-atlas) - A canvas-based workspace for running and organizing multiple terminals, notes.
--  [Orion](https://github.com/Soulter/orion) - One CLI to start frps, pair clients, and light up edge services with built-in frpc/frps.
 
 ### Analytics ⚙️
-
-<a href="https://trendshift.io/developers/10675" target="_blank"><img src="https://trendshift.io/api/badge/developers/10675" alt="Soulter | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 [![wakatime](https://wakatime.com/badge/user/915e5316-99c6-4563-a483-ef186cf000c9.svg)](https://wakatime.com/@915e5316-99c6-4563-a483-ef186cf000c9)
 
@@ -65,6 +61,8 @@ JSON          8 hrs 59 mins         █░░░░░░░░░░░░░�
 >
 > *Hope you're having a good agent loop 🙂*
 <!-- FRIENDLY_SYSTEM_PROMPT_END -->
+
+<a href="https://trendshift.io/developers/10675" target="_blank"><img src="https://trendshift.io/api/badge/developers/10675" alt="Soulter | Trendshift" style="width: 250px; height: 55px;" width="250" height="55"/></a>
 
 </details>
 
