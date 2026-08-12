@@ -21,12 +21,13 @@
 My dream is to build an ATRI.
 
 <br clear="right">
-🚀 My contacts:
 
+---
+
+🚀 My contacts:
 -  ⌈ E-mail ⌋：[soulter618@gmail.com](mailto:soulter618@gmail.com)
 
 ⚙️ My projects:
-
 -  [AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM chatbot.
 
 ### Analytics ⚙️
