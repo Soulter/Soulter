@@ -4,14 +4,23 @@
 
 ### Soulter
 
+<img
+  align="right"
+  width="340"
+  alt="Soulter"
+  src="https://github.com/user-attachments/assets/a576d690-74c4-4295-b926-671a347bc2ae"
+/>
+
 - I do AstrBot, which has 33k+ stars.
 - I do research, mainly focus on LLM-based Agent, Agent Memory.
-- I'm studing at BUPT and interning at MoonshotAI.
+- I'm studying at BUPT and interning at MoonshotAI.
 - I play guitar!
 - I write [blogs](https://blog.soulter.top/), sharing my insights and experiences along the way.
+- I'm an amateur astronomer 🌌.
 
 My dream is to build an ATRI.
 
+<br clear="right">
 🚀 My contacts:
 
 -  ⌈ E-mail ⌋：[soulter618@gmail.com](mailto:soulter618@gmail.com)
