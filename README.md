@@ -13,7 +13,7 @@
 
 - I do AstrBot, which has 33k+ stars.
 - I do research, mainly focus on LLM-based Agent, Agent Memory.
-- I'm studying at BUPT and interning at MoonshotAI.
+- I'm studying at BUPT and interning at MoonshotAI (Harness Team).
 - I play guitar!
 - I write [blogs](https://blog.soulter.top/), sharing my insights and experiences along the way.
 - I'm an amateur astronomer 🌌.
