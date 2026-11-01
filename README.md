@@ -11,10 +11,10 @@
   src="https://github.com/user-attachments/assets/a576d690-74c4-4295-b926-671a347bc2ae"
 />
 
-- I do AstrBot, which has 33k+ stars.
+- I do AstrBot, which has 45k+ stars.
 - I do research, mainly focus on LLM-based Agent, Agent Memory.
 - I'm studying at BUPT and interning at MoonshotAI (Harness Team).
-- I play guitar!
+- I'm learning piano & guitar!
 - I write [blogs](https://blog.soulter.top/), sharing my insights and experiences along the way.
 - I'm an amateur astronomer 🌌.
 
